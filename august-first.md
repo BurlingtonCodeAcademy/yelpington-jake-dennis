@@ -4,8 +4,6 @@
 
 **Phone Number** (802)540-0060
 
-**Hours** 7:30am - 4:00pm Daily
-
 **Web Page URL:** (augustfirstvt.com)
 
 ##Their bread is the best in town!
