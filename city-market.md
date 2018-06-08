@@ -4,6 +4,6 @@
 
 **Phone number:** (802) 861-9700
 
-**Hours:** 
+**Hours:** 7 a.m. to 11 p.m.
 
 Sandwiches and lunch bar. Heady Topper delivered Tuesdays at 2 p.m.
