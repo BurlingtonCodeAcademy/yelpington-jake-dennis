@@ -4,6 +4,9 @@
 
 **Phone Number:** (802) 448-4333
 
+** Hours: ** Monday - Friday 4PM to 2AM
+Saturday & Sunday 12PM to 2AM 
+
 **Website:** thearchivesbar.com
 
 **Hours:** Monday - Friday 4:00pm - 2:00am
