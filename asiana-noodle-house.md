@@ -4,6 +4,6 @@
 **Website:** www.asiananoodle.com
  
 
-The Spicy Tuna Roll is delish! They don't deliver but they do ofter the option of online ordering, which can be found on the website.  A full menu can also be found there as well. Happy Eating! 
+The Spicy Tuna Roll is delish! They don't deliver but they do offer the option of online ordering, which can be found on the website.  A full menu can also be found there. Happy eating...nom nom nom nom!!
 
 
