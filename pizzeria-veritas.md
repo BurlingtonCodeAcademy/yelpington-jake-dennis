@@ -8,4 +8,4 @@
 
 Fresh mozzerella made daily!
 
-Ask Brian for special sauce ;)
+Ask Brian for the 'off menu' items
