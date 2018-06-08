@@ -4,6 +4,9 @@
 
 **Phone Number:** (802) 448-4333
 
+** Hours: ** Monday - Friday 4PM to 2AM
+Saturday & Sunday 12PM to 2AM 
+
 **Website:** thearchivesbar.com
 
 Bar with old arcade games! Great selection of Pacman/Galaga-era games, 90s games (TMNT arcade game, Simpsons arcade game, etc) and pinball. Token machine accepts both cash and card.
