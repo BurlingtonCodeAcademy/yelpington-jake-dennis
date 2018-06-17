@@ -2,6 +2,8 @@
 
 **Address** 149 S Champlain St, Burlington, VT 05401
 
+**Hours** 7:30am - 4pm
+
 **Phone Number** (802)540-0060
 
 **Hours:** Monday-Saturday 7:30 - 4:00pm
