@@ -7,10 +7,11 @@ http.createServer(function (request, response) {
     let contentType = 'text/plain';
 
     var file;
-    if (request.url === '/') {
+    path = request.url
+    path = path.split('?')[0]
+
+    if (path === '/') {
         file = 'index.html';
-    } else if (request.url.match(/\/?style.css$/)) {
-        file = 'style.css';
     } else {
         file = '.' + decodeURIComponent(request.url);
     }
