@@ -1,15 +1,20 @@
 # August First Bakery
 
-**Address** 149 S Champlain St, Burlington, VT 05401
+#HOURS
+**Monday – Saturday: 7:30am – 4:00 pm**
 
-**Hours** 7:30am - 4pm
+**Address** 149 S Champlain St, Burlington, VT 05401
 
 **Phone Number** (802)540-0060
 
-**Hours:** Monday-Saturday 7:30 - 4:00pm
+**Web Page URL:** (augustfirstvt.com)
 
-**Web Page:** augustfirstvt.com
+**Notes:**
 
-> Their jalapeno cheddar bread is good even though their laptop policy is bogus.
+- Their jalapeno cheddar bread is good even though their laptop policy is bogus.
 
-Chipotle Breakfast Sandwich... It's Killer!
+- Their bread is the best in town!
+
+- MUST GET - Chipotle Breakfast Sandwich... It's Killer!
+
+- They donate their leftover day olds. What good samaritans!
