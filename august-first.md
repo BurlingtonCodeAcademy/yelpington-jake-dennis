@@ -11,10 +11,12 @@
 
 **Notes:**
 
-- Their jalapeno cheddar bread is good even though their laptop policy is bogus.
+
+##MUST GET - Chipotle Breakfast Sandwich... It's Killer!
+
+> Their jalapeno cheddar bread is good even though their laptop policy is bogus.
+
+- They donate their leftover day olds. What good samaritans!
 
 - Their bread is the best in town!
 
-- MUST GET - Chipotle Breakfast Sandwich... It's Killer!
-
-- They donate their leftover day olds. What good samaritans!
