@@ -1,14 +1,18 @@
 <script>
-let path = document.location.pathname
-let name = path.split('/').pop()
-console.log(name);
+let name = document.location.pathname.slice(1);
 
-fetch(name + '.json')
-  .then(function(response) {
-    return response.text();
-  })
-  .then(function(myText) {
-    console.log(myText);
-  });
+if (!name) {
+  console.log("no place name specfied");
+} else {
+  console.log("fetching place named '" + name + "'");
+
+  fetch(name + '.json')
+    .then(function (response) {
+      return response.text();
+    })
+    .then(function (myText) {
+      console.log(myText);
+    });
+}
 
 </script>
