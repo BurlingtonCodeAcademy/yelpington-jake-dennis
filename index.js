@@ -12,6 +12,8 @@ http.createServer(function (request, response) {
 
     if (path === '/') {
         file = 'index.html';
+    } else if (path.indexOf('.') === -1) {
+        file = 'index.html';
     } else {
         file = '.' + decodeURIComponent(request.url);
     }

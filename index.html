@@ -1,6 +1,9 @@
 <script>
+let path = document.location.pathname
+let name = path.split('/').pop()
+console.log(name);
 
-fetch('city-market.md')
+fetch(name + '.json')
   .then(function(response) {
     return response.text();
   })
