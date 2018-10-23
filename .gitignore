@@ -59,4 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+# MacOS Finder info
 .DS_Store
+
+# Cypress
+cypress/screenshots
+cypress/videos
+
