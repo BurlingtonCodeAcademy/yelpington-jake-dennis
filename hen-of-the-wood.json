@@ -1,0 +1,15 @@
+{
+    "id":"hen-of-the-wood",
+    "name":"Hen of the wood",
+    "address":"55 Cherry Street",
+    "phone":"802-540-0534",
+    "hours":"Sunday - Saturday: 4:00p.m. - 11:00p.m.",
+    "notes": [
+        "$1 oyster happy hour 4pm-5pm.",
+        "$23 dollar brocolli to die for.",
+        "boho vermont farm chic with a cozy ambiance.",
+        "The flavors of the food and strength of the cocktails makes up for the snotty first impression and expensive prices."
+
+    ]
+    
+}
