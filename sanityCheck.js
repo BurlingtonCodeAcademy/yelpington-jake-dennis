@@ -21,7 +21,7 @@ fs.readdir(baseDir, function(err, items) {
           let parsed = JSON.parse(data.toString());
           if (!parsed.id.match(/^[a-z0-9-]*$/)) {
             console.error(pathname + ': id contains non-alphanumeric characters');
-          } else {            
+          } else {
             console.log(pathname + ': OK')
             for (var key in parsed) {
               console.log('\t' + key + '\t' + parsed[key]);
