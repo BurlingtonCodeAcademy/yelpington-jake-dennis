@@ -1,18 +1,23 @@
-<script>
-let name = document.location.pathname.slice(1);
-
-if (!name) {
-  console.log("no place name specfied");
-} else {
-  console.log("fetching place named '" + name + "'");
-
-  fetch(name + '.json')
-    .then(function (response) {
-      return response.text();
-    })
-    .then(function (myText) {
-      console.log(myText);
-    });
-}
-
-</script>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Yelpington</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
+    />
+    <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="./src/style.css">
+  </head>
+  <body>
+    <div id="header">Yelpington</div>
+    <div id="map"></div>
+    <script src="./src/map.js"></script>
+    <button id="getAll">Get All Restaurants</button>
+    <div id="all"></div>
+    <script src="./src/main.js"></script>
+  </body>
+</html>

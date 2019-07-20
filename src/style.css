@@ -1,0 +1,14 @@
+body {
+  background: rgb(91, 201, 91);
+}
+
+#map {
+  height: 400px;
+}
+
+#header {
+    width: 100%;
+    background: rgb(56, 91, 32);
+    border-radius: 10px;
+    font-size: 32px;
+  }
